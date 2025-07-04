@@ -1,0 +1,12 @@
+GEO,Province_Name,Tax_Rate
+Province 1,Alberta,11
+Province 2,British Columbia,15
+Province 3,Manitoba,15
+Province 4,New Brunswick,15
+Province 5,Newfoundland and Labrador,15
+Province 6,Nova Scotia,14.975
+Province 7,Ontario,13
+Province 8,Prince Edward Island,12
+Province 9,Quebec,11
+Province 10,Saskatchewan,5
+Province 11,Yukon,12
