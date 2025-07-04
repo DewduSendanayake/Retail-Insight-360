@@ -51,4 +51,6 @@ Check out,
 * Leveraged SSAS cube design to pre-aggregate data for sub-second OLAP interactions
 * Delivered user-centric Power BI reports that empower decision-makers with self-service analytics
 
+
+
 > Licensed under the [MIT License](LICENSE)
