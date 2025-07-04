@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "IT22107596_RetailPrices_SSAS_Cube", "IT22107596_RetailPrices_SSAS_Cube\IT22107596_RetailPrices_SSAS_Cube.dwproj", "{038EE848-8A63-91E0-0AE1-DE0614A8F089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038EE848-8A63-91E0-0AE1-DE0614A8F089}.Development|Default.ActiveCfg = Development
+		{038EE848-8A63-91E0-0AE1-DE0614A8F089}.Development|Default.Build.0 = Development
+		{038EE848-8A63-91E0-0AE1-DE0614A8F089}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D26AD6-2678-4466-B187-F4B0D674A3A0}
+	EndGlobalSection
+EndGlobal
