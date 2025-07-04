@@ -1,8 +1,6 @@
 # Retail Prices Data Warehouse & OLAP Solution 🎯
 
-An end-to-end **Analytics Pipeline** delivering a robust Data Warehouse, SSAS cube, and Power BI reporting layer for tracking monthly retail prices across Canadian provinces (2017–2025).
-
-## 🚀 Elevator Pitch
+An end-to-end **Analytics Pipeline** delivering a rich Data Warehouse, SSAS cube, and Power BI reporting layer for tracking monthly retail prices across Canadian provinces (2017–2025).
 
 I designed and built a star‑schema data warehouse capturing product price histories with Type 2 Slowly Changing Dimensions, orchestrated ETL via **SSIS**, and implemented a multidimensional cube in **SSAS**. The pipeline transforms raw CSV, Excel, and text files into actionable insights, enabling fast roll‑ups, drill‑downs, and slice‑and‑dice in **Power BI**.
 
@@ -53,6 +51,4 @@ Check out,
 * Leveraged SSAS cube design to pre-aggregate data for sub-second OLAP interactions
 * Delivered user-centric Power BI reports that empower decision-makers with self-service analytics
 
----
-
-> Licensed under the [MIT License](LICENSE) • Built by [Your Name](https://www.linkedin.com/in/YOURNAME/)
+> Licensed under the [MIT License](LICENSE)
