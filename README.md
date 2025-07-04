@@ -34,6 +34,18 @@ I designed and built a star‑schema data warehouse capturing product price hist
   * Dynamic visuals: cards, clustered bar/column charts, and pivot‑style matrices
   * Enables executives to explore pricing trends at province, product, and time granularity
 
+Check out,
+
+<p float="left">
+  <img src="Report1_Matrix.png" alt="Report1_Matrix screenshot" width="45%" />
+  <img src="Report2_CascadingSlicers.png" alt="Report2_CascadingSlicers screenshot" width="45%" />
+</p>
+
+<p float="left">
+  <img src="Report3_DrillDown.png" alt="Report3_DrillDown screenshot" width="45%" />
+  <img src="Report4_DrillThrough.png" alt="Report4_DrillThrough screenshot" width="45%" />
+</p>
+
 ## 💡 Key Takeaways
 
 * Orchestrated complex ETL workflows with SSIS to ensure data quality and historical accuracy
